@@ -1,3 +1,6 @@
+### CREAR ENVIROMENT 
+python -m venv env
+
 ### entrar en enviroment (ENV)
 .\env\Scripts\activate
 
